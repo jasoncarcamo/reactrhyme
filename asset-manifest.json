@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactrhyme/static/css/main.f2dc74c0.chunk.css",
+    "main.js": "/reactrhyme/static/js/main.56ae157f.chunk.js",
+    "main.js.map": "/reactrhyme/static/js/main.56ae157f.chunk.js.map",
+    "runtime~main.js": "/reactrhyme/static/js/runtime~main.32eda8d0.js",
+    "runtime~main.js.map": "/reactrhyme/static/js/runtime~main.32eda8d0.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/reactrhyme/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/reactrhyme/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/reactrhyme/index.html",
+    "precache-manifest.d43cc637b415171dd575744e3fdda1fa.js": "/reactrhyme/precache-manifest.d43cc637b415171dd575744e3fdda1fa.js",
+    "service-worker.js": "/reactrhyme/service-worker.js",
+    "static/css/main.f2dc74c0.chunk.css.map": "/reactrhyme/static/css/main.f2dc74c0.chunk.css.map"
+  }
+}
